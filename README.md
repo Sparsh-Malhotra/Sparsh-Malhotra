@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Python**
 
-- 📫 How to reach me **sparshmalhotraaa@gmail.com**
+- 📫 Reach me at **sparshmalhotraaa@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecodinggdude&show_icons=true&locale=en" alt="thecodinggdude" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodinggdude&" alt="thecodinggdude" /></p>
+
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=TheCodinggDude&theme=redical">
