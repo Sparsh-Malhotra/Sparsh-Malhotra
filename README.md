@@ -42,4 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sparsh-Malhotra&theme=radical" alt="Sparsh-Malhotra" /></p>
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Sparsh-Malhotra&theme=redical">
+[![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sparsh-Malhotra&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
