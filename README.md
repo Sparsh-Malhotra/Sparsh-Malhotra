@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sparsh-Malhotra" alt="Sparsh-Malhotra" /></a> </p>
 
-- 🌱 I’m currently working on **MERN Stack**
+- 🌱 I’m currently working on **MERN / MEFN Stack**
 
-- 💬 Ask me about **React, JavaScript, TypeScript, Node, Express, MongoDB, SQL**
+- 💬 Ask me about **React, JavaScript, TypeScript, Flutter, Node, Express, MongoDB, SQL**
 
 - 📫 Reach me at **sparshmalhotraaa@gmail.com**
 
@@ -15,7 +15,6 @@
 <p align="center">
 <a href="https://twitter.com/sparshmalhotraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sparshmalhotraa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sparsh-malhotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparsh-malhotra" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sparsh_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sparsh_01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sparsh_malhotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sparsh_malhotra" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sparsh_malhotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sparsh_malhotra" height="30" width="40" /></a>
 </p>
