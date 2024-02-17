@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently working on **MERN / MEFN Stack**
 
-- 💬 Ask me about **React, JavaScript, TypeScript, Flutter, Node, Express, MongoDB, SQL**
+- 💬 Ask me about **React, Next.js, JavaScript, TypeScript, Flutter, Node, Express, MongoDB**
 
 - 📫 Reach me at **sparshmalhotraaa@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/sparshmalhotraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sparshmalhotraa" height="30" width="40" /></a>
+<a href="https://twitter.com/Sparsh_M_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sparshmalhotraa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sparsh-malhotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparsh-malhotra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sparsh_malhotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sparsh_malhotra" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sparsh_malhotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sparsh_malhotra" height="30" width="40" /></a>
